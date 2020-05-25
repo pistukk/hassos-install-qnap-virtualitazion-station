@@ -1,0 +1,13 @@
+In questa piccola guida vi spiego come installare hassos in virtualizzation station, poi aggiornerò anche la guida su come creare il file che ora ho già preparato e scaricabili da questo link qui sotto
+
+Come prima cosa scaricate i file sul vostro pc, dopodiche aprite la pagina della virtualization station nell'interfaccia del vostro qnap. In alto a destra andate in importazione vm e poi ancora importazione vm Poi importa da pc, selezionate il file .ovf, a quel punto vi apre un altra finestra dove vi fa importare un altro file e li caricate il .vmdk
+
+A quel punto andate avanti e impostate i core della macchina, basta anche 2, la ram io un 2 gb ce li metterei ma sono sufficienti anche 1 e poi clik su importare
+
+Una volta importata (ci metterà un paio di minuti) avviate la vm e aspettate 5 min che installa il tutto e poi con un ipscan andate a cercare che indirizzo ha dato al vostro ha e il gioco è fatto
+
+Se volete dare l'ip fisso al vostro ha lo dovete bloccare nel vostro router con il macadress.
+
+Se volete che la macchina parta da sola al riavvio del qnap nelle impostazioni della macchina creata, quando è spenta andate sull'ingranaggino, poi impstazioni, altre e date il riavvio allo stato precedente.
+
+https://mega.nz/folder/JYgnyZyC#1fbKpt4QWhPbhdtLwIKTgw
